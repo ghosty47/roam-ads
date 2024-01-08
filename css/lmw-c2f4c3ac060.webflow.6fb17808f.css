@@ -6016,6 +6016,11 @@ figcaption {
   padding: 0;
 }
 
+.halo-background-video {
+  height: auto;
+  overflow: visible;
+}
+
 .cell, .cell-2 {
   justify-content: center;
 }
